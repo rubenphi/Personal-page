@@ -612,6 +612,10 @@ h1, h2, h3, h4, h5, h6, figure {
   border-radius: 10px;
 }
 
+#fh5co-hero .flexslider .slider-text-bg .desc a{
+  color: #444;
+}
+
 
 @media screen and (max-width: 768px) {
   #fh5co-hero .flexslider .slider-text-bg .desc p {
